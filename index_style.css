@@ -1,0 +1,32 @@
+title {
+	font-size: 24px
+}
+
+body {
+	text-align: center;
+	background: #E596FF;
+	color: #FF3399;
+	font-size: 18px;
+}
+
+.catch_phrase {
+	font-size: 20px
+}
+
+ul {
+	list-style: none;
+	padding: 0.5px;
+}
+
+.app {
+	text-align: left;
+	font-size: 16px;
+	border-style: dotted;
+	border-width: 2px;
+	border-color: black;
+}
+
+.title {
+	text-align: right
+}
+	
