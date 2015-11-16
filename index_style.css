@@ -4,8 +4,8 @@ title {
 
 body {
 	text-align: center;
-	background: #E596FF;
-	color: #FF3399;
+	background: #ffffcc;
+	color: #FF3397;
 	font-size: 18px;
 }
 
@@ -15,15 +15,13 @@ body {
 
 ul {
 	list-style: none;
-	padding: 0.5px;
+	padding: 0px;
 }
 
 .app {
-	text-align: left;
+	text-align: center;
 	font-size: 16px;
-	border-style: dotted;
-	border-width: 2px;
-	border-color: black;
+	background-color: white;
 }
 
 .title {
